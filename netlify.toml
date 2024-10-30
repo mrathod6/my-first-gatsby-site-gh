@@ -3,7 +3,7 @@
   publish = "public"
 
 [context.production.environment]
-  NODE_VERSION = "16"  # or your preferred version
+  NODE_VERSION = "16.20.2"  # or your preferred version
   GATSBY_ENV = "production"
 
 [[plugins]]
